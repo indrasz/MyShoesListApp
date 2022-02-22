@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Shoes List App</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="shoes_name">Nama Sepatu</string>
+    <string name="detail">Detail</string>
+    <string name="about_name">M. Wahyu Indra Wardana</string>
+    <string name="about_email">wahyuindra712@gmail.com</string>
+
+</resources>
